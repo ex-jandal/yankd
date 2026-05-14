@@ -1,5 +1,5 @@
 project(
-  'Clipto',
+  'Yankd',
   'cpp',
   version: '0.1.0-alpha',
   default_options: [
@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 executable(
-  'clipto',
+  'yankd',
   sources: [
     'src/main.cpp', 
     sources
@@ -45,7 +45,7 @@ executable(
 )
 
 test_exe = executable(
-  'clipto_test',
+  'yankd_test',
   sources: [
     'tests/main.cpp',
     sources,

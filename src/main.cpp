@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
   QGuiApplication app(argc, argv);
 
   app.setOrganizationDomain("me.abujandal");
-  app.setApplicationName("Clipy");
+  app.setApplicationName("Yankd");
 
   QQmlApplicationEngine engine;
 
