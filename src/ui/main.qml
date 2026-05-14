@@ -5,7 +5,7 @@ ApplicationWindow {
     visible: true
     width: 640
     height: 480
-    title: "Clipto - clipboard manager"
+    title: "Yankd - clipboard manager"
 
     Rectangle {
         anchors.fill: parent
